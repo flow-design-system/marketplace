@@ -1,0 +1,19 @@
+{
+  "name": "flow-marketplace",
+  "owner": {
+    "name": "@flowds"
+  },
+  "plugins": [
+    {
+      "name": "flow-builder",
+      "description": "AI-assisted UI development with the Flow Design System — component scaffolding, token resolution, icon lookup, and contextual guidance powered by MCP",
+      "version": "0.0.13",
+      "source": {
+        "source": "npm",
+        "package": "@flow/builder",
+        "version": "0.0.13",
+        "registry": "https://sgts.gitlab-dedicated.com/api/v4/projects/60257/packages/npm/"
+      }
+    }
+  ]
+}

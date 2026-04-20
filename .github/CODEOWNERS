@@ -1,0 +1,4 @@
+# Default owners for the marketplace repo.
+# These users are automatically requested for review on every PR.
+
+* @flow-design-system/maintainers
